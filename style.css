@@ -170,6 +170,7 @@ body
     display: flex;
     list-style-type: none;
     padding: 5em 5em 2em;
+    text-align: center;
     justify-content: center;
     
 }
