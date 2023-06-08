@@ -9,5 +9,8 @@ funcionalidade 2: Baixar os vídeos da aula aonde e quando quisser
 
 # :white_check_mark: Tecnologias utilizadas
 
+* HTML 
+* CSS
+
 
 > :construction: Projeto em construção :construction:
